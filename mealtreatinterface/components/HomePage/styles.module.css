@@ -1,0 +1,35 @@
+.bigFrame {
+    width: 388px;
+    height: 1030px;
+    background: #FFF3FC;
+}
+
+.symBol {
+    width: 191px;
+    height: 139px;
+    flex-shrink: 0;
+}
+
+.bigframepictureLable {
+    display: flex;
+    width: 271px;
+    height: 224px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.smallframepictureLable {
+    width: 271px;
+    height: 224px;
+    flex-shrink: 0;
+    background: #FFF;
+}
+
+.pizza {
+    width: 135px;
+    height: 112px;
+    flex-shrink: 0;
+    border: 1px solid #FF7878;
+    background: url url('/assets/images/piclabel_1.png'), lightgray 32.136px 25.921px / 57.364% 69.578% no-repeat;
+}
